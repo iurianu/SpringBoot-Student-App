@@ -13,4 +13,4 @@
 ## Returns
 
 * JSON: _localhost:8080/api/v1/student_
-* HTML: _localhost:8080/_
+* HTML: _localhost:8080_
