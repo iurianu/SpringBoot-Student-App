@@ -18,13 +18,13 @@ public class StudentConfig {
 
             Student iulian = new Student(
                 "Iulian",
-                "iulianandriescu@gmail.com",
+                "iulianemailaddress@emailprovider.com",
                 LocalDate.of(1980, Month.FEBRUARY, 7)
             );
 
             Student lyljan = new Student(
                 "Lyljan",
-                "dragonlyljan@gmail.com",
+                "lyljanemailaddress@emailprovider.com",
                 LocalDate.of(1991, Month.JANUARY, 1)
             );  
             
