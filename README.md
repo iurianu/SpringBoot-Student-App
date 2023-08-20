@@ -7,7 +7,7 @@
 ## Technology
 
 * Java: _openjdk version "17.0.8" 2023-07-18_
-* SpringBoot: _3.1.2_
+* SpringBoot: _version 3.1.2_
 * Maven: _Apache Maven Wrapper startup batch script, version 3.2.0_
 
 ## Returns
